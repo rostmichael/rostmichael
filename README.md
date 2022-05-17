@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rostmichael
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, Cypher
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, my name is assoc. prof. Michael Rost, Ph.D., I currently work at the University of South Bohemia in the Department of Genetics and Biotechnology.
+- 👀 I’m interested in applied statistics and programming in languages like R, Phyton. 
+- 🌱 I’m currently learning Python, NoSQL tool Neo4j with Cypher query language.
+- 📫 You can reach me by: rost@ztf.jcu.cz
 
 <!---
 rostmichael/rostmichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
