@@ -1,5 +1,5 @@
 - 👋 Hi, my name is assoc. prof. Michael Rost, Ph.D., I currently work at the University of South Bohemia in the Department of Genetics and Biotechnology.
-- 👀 I’m interested in applied statistics and programming in languages like R, Phyton. 
+- 👀 I’m interested in Applied statistics, Data science and programming in languages like R, Phyton. 
 - 🌱 I’m currently learning Python, NoSQL tool Neo4j with Cypher query language.
 - 📫 You can reach me by: rost@ztf.jcu.cz or rost@retorta.cz
 
